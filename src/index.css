@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: lightpink;
+}
+
+h1 {
+  font-size: 1.9rem;
+  color:blue;
+  align-items:center;
+  justify-content:center;
+  padding: 1%;
+  background-color:salmon;
+  border-radius:10%;
+  text-align: center;
+    
+}
